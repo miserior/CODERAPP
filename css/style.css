@@ -1,0 +1,102 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.image-brand {
+  width: 200px;
+}
+
+.sectiona {
+  background-color: #F5F7FA;
+}
+
+.sectiona h2 {
+  font-size: 3rem;
+}
+
+
+.image-sectiona img {
+  max-width: 70%;
+}
+
+
+.sectionb {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+  text-align: center;
+}
+
+.sectionb-cards  {
+    margin: 10px;
+    width: 400px;
+border-color: #F5F7FA;
+}
+
+.card i {
+  font-size: 2rem;
+}
+
+.card-body img {
+  width: 100px;
+}
+
+.sectionc {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+  text-align: center;
+  background-color: #F5F7FA;
+}
+
+.sectionc-cards  {
+  margin: 10px;
+  width: 400px;
+border-color: #F5F7FA;
+}
+
+footer {
+    background-color: #333;
+    color: #808080;
+    padding: 20px;
+  }
+
+footer .contact {
+  text-align: left;
+}
+
+.copyright{
+  text-align: center;
+}
+
+.support li {
+  list-style: none;
+}
+
+.support li a {
+  text-decoration: none;
+}
+
+
+.informacion-contacto {
+  gap: 1rem;
+}
+
+.sectiona .container .product img {
+    width: 5%;
+}
+
+button {
+    background-color: #333;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+}
+
+
+.nosotrosresumen {
+    background-color: #F5F7FA;
+}
