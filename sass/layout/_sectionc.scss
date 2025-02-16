@@ -1,0 +1,12 @@
+.sectionc {
+    text-align: center;
+    @include section-gray;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    &-cards  {
+        margin: 10px;
+        width: 400px;
+      border-color: $borde-card
+      }
+  }
+  

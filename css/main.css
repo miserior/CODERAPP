@@ -1,0 +1,102 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  background-color: #333;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+}
+
+.card {
+  transition: box-shadow 0.3s ease;
+}
+.card i {
+  font-size: 2rem;
+}
+.card-body img {
+  width: 100px;
+}
+.card:hover {
+  box-shadow: 0 8px 10px rgba(0, 0, 0, 0.3);
+  animation: rotateCard 3s 1;
+}
+
+@keyframes rotateCard {
+  0% {
+    transform: rotate3d(0, 0, 0, 0deg);
+  }
+  100% {
+    transform: rotate3d(0, 0, 1, 360deg);
+  }
+}
+.image-brand {
+  width: 150px;
+}
+
+.sectiona {
+  background-color: #F5F7FA;
+}
+.sectiona h2 {
+  font-size: 3rem;
+}
+.sectiona .container .product img {
+  width: 5%;
+}
+
+.image-sectiona img {
+  max-width: 40%;
+}
+
+.sectionb {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+  text-align: center;
+}
+.sectionb-cards {
+  margin: 10px;
+  width: 400px;
+  border-color: #F5F7FA;
+}
+
+.sectionc {
+  text-align: center;
+  background-color: #F5F7FA;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.sectionc-cards {
+  margin: 10px;
+  width: 400px;
+  border-color: #F5F7FA;
+}
+
+footer {
+  background-color: #333;
+  color: #808080;
+  padding: 20px;
+}
+footer .contact {
+  text-align: left;
+}
+
+.copyright {
+  text-align: center;
+}
+
+.support li {
+  list-style: none;
+}
+.support li a {
+  text-decoration: none;
+}
+
+.informacion-contacto {
+  gap: 1rem;
+}
+
+/*# sourceMappingURL=main.css.map */

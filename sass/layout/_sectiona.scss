@@ -1,0 +1,24 @@
+.sectiona {
+    @include section-gray;
+    h2 {
+        font-size: 3rem;
+      }
+      .container {
+        .product {
+            img {
+                width: 5%;
+            }
+        }
+      }
+  }
+
+  .image-sectiona {
+    img {
+        max-width: 40%;
+      }
+  }
+
+  
+  
+
+  

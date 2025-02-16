@@ -1,0 +1,26 @@
+footer {
+    background-color: map-get($estilos-footer, bg-footer);
+    color: map-get($estilos-footer, tx-footer);
+    padding: 20px;
+    .contact {
+        text-align: left;
+      }
+  }
+
+  .copyright{
+    text-align: center;
+  }
+  
+  .support li {
+    list-style: none;
+    
+        a {
+            text-decoration: none;
+          }
+    
+  }
+  
+  .informacion-contacto {
+    gap: 1rem;
+  }
+

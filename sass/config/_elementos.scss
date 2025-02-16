@@ -1,0 +1,32 @@
+button {
+    background-color: map-get($estilos-botones, background-color);
+    color: map-get($estilos-botones, color);
+    padding: 10px 10px;
+    text-align: center;
+}
+
+.card {
+    transition: box-shadow 0.3s ease;
+    i {
+        font-size: 2rem;
+      }
+      &-body img {
+        width: 100px;
+      }
+      &:hover {
+        box-shadow: 0 8px 10px rgba(0,0,0,0.3);
+        animation: rotateCard 3s 1;
+      }
+}
+
+@keyframes rotateCard{
+    0% {
+        transform: rotate3d(0, 0, 0, 0deg);
+    }
+
+    100% {
+        transform: rotate3d(0, 0, 1, 360deg);
+    }
+}
+  
+  
