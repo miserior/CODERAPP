@@ -8,15 +8,14 @@ Este proyecto implica la creación de un portafolio en línea para mostrar las h
 ## Tecnologías:
 
 ### HTML:
-Se utilizará HTML para estructurar el contenido del sitio web, incluidas secciones como "Inicio", "Acerca de mí", "Proyectos", "Habilidades" y "Contacto".
-Se hará énfasis en el HTML semántico para garantizar la accesibilidad y la optimización de los motores de búsqueda (SEO).
+Se utilizará HTML para estructurar el contenido del sitio web.
 ### Sass (CSS preprocessor):
 Sass se utilizará para mejorar la organización y el mantenimiento del código CSS.
 Se aprovecharán las características de Sass, como variables, anidamiento, mixins y partials, para crear hojas de estilo modulares y reutilizables.
 Sass sera compilado a css.
 ### CSS:
 CSS se utilizará para dar estilo a los elementos HTML, controlar el diseño, los colores, la tipografía y las animaciones.
-Se implementarán técnicas de diseño receptivo para garantizar que el sitio web se vea y funcione bien en varios dispositivos y tamaños de pantalla.
+Se implementarán técnicas de diseño responsivo para garantizar que el sitio web se vea y funcione bien en varios dispositivos y tamaños de pantalla.
 
 ## Autor
 
