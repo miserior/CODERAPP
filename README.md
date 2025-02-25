@@ -1,4 +1,4 @@
-![Logo]([../assets/spacepro-logo.png](https://github.com/miserior/CODERAPP/blob/c2614db4979826afebd09ef6c48ef9489846d7da/assets/spacepro-logo.png))
+![Logo](assets/spacepro-logo.png)
 
 
 # Proyecto final coder - Desarrollo web
