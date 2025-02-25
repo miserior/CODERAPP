@@ -1,4 +1,4 @@
-![Logo]([[../assets/spacepro-logo.png)))
+![Logo](../assets/spacepro-logo.png)
 
 
 # Proyecto final coder - Desarrollo web
