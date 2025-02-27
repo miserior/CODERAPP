@@ -39,7 +39,7 @@ button {
 .sectiona {
   background-color: #F5F7FA;
 }
-.sectiona h2 {
+.sectiona h1 {
   font-size: 3rem;
 }
 .sectiona .container .product img {
@@ -82,6 +82,12 @@ footer {
 }
 footer .contact {
   text-align: left;
+  padding: 0%;
+  margin: 0%;
+}
+footer .contact .informacion-contacto {
+  padding: 0%;
+  margin: 0%;
 }
 
 .copyright {
